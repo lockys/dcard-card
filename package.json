@@ -1,7 +1,7 @@
 {
-  "name": "dcard-login",
+  "name": "dcard-card",
   "version": "0.0.1",
-  "description": "",
+  "description": "Get your card of `Dcard` today",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
